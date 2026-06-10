@@ -1,0 +1,4 @@
+#profile-title: NL - Diana iPhone
+#profile-update-interval: 6
+://autorouting/onadd/https://raw.githubusercontent.com/AstorTiko/family-vpn-config/main/routing-family.json
+vless://8fc7ddb6-7526-463d-82ba-6e0935d885f1@194.87.216.51:40545?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Diana%20iPhone

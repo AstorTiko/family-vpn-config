@@ -1,0 +1,4 @@
+#profile-title: NL - Father Mac
+#profile-update-interval: 6
+://autorouting/onadd/https://raw.githubusercontent.com/AstorTiko/family-vpn-config/main/routing-family.json
+vless://a099e44d-d7a2-455d-8765-89da075ff30f@194.87.216.51:40545?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Father%20Mac

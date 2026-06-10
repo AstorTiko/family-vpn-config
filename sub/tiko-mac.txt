@@ -1,0 +1,4 @@
+#profile-title: NL - Tiko Mac
+#profile-update-interval: 6
+://autorouting/onadd/https://raw.githubusercontent.com/AstorTiko/family-vpn-config/main/routing-family.json
+vless://a728ae81-102c-42ff-8ba7-6c8ad7489813@194.87.216.51:40545?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Tiko%20Mac

@@ -1,0 +1,4 @@
+#profile-title: NL - Izabella
+#profile-update-interval: 6
+://autorouting/onadd/https://raw.githubusercontent.com/AstorTiko/family-vpn-config/main/routing-family.json
+vless://cf31fb37-0a60-42e2-b3f3-d9cf81665ffd@194.87.216.51:40545?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Izabella%20iPhone

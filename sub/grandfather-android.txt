@@ -1,0 +1,4 @@
+#profile-title: NL - Grandfather
+#profile-update-interval: 6
+://autorouting/onadd/https://raw.githubusercontent.com/AstorTiko/family-vpn-config/main/routing-family.json
+vless://6429ced5-c900-4c23-a9dd-ed3b5a742f6d@194.87.216.51:40545?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Grandfather%20Android

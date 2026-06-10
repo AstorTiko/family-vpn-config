@@ -1,0 +1,4 @@
+#profile-title: NL - Grandmother
+#profile-update-interval: 6
+://autorouting/onadd/https://raw.githubusercontent.com/AstorTiko/family-vpn-config/main/routing-family.json
+vless://6bfea9cc-6ac3-433f-bc76-9dc109c0e83e@194.87.216.51:40545?type=tcp&encryption=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Grandmother%20iPhone
