@@ -1,0 +1,4 @@
+#profile-title: NL - XHTTP Test
+#profile-update-interval: 6
+://autorouting/onadd/https://cdn.jsdelivr.net/gh/AstorTiko/family-vpn-config@main/routing-family.json
+vless://5180c0ab-e341-4107-b0cb-2e9a8b2df173@194.87.216.51:2087?type=xhttp&path=%2Fxhttp-path&security=reality&pbk=W2YROWUROPDdil_JMGkM2RuucovL-WUPjqXzDhh8hi8&sid=4637a54ac8886726&sni=addons.mozilla.org&fp=chrome&encryption=none#%F0%9F%A7%AA%20XHTTP%20Reality%20Test
