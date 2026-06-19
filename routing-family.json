@@ -31,6 +31,9 @@
         "domain:ytimg.com",
         "domain:ggpht.com",
         "domain:gstatic.com",
+        "domain:googleapis.com",
+        "domain:googleusercontent.com",
+        "domain:gemini.google.com",
         "domain:openai.com",
         "domain:chatgpt.com"
     ],
