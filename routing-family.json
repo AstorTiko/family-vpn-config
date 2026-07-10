@@ -95,7 +95,9 @@
         "domain:mts.ru",
         "domain:beeline.ru",
         "domain:tele2.ru",
-        "domain:yummyani.me"
+        "domain:yummyani.me",
+        "domain:kodikplayer.com",
+        "domain:kodikres.com"
     ],
     "DirectIp": [
         "10.0.0.0/8",
