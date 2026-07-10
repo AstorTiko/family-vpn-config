@@ -94,7 +94,8 @@
         "domain:megafon.ru",
         "domain:mts.ru",
         "domain:beeline.ru",
-        "domain:tele2.ru"
+        "domain:tele2.ru",
+        "domain:yummyani.me"
     ],
     "DirectIp": [
         "10.0.0.0/8",
